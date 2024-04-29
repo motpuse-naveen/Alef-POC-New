@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE ncx PUBLIC "-//NISO//DTD ncx 2005-1//EN" "http://www.daisy.org/z3986/2005/ncx-2005-1.dtd">
+<ncx xmlns="http://www.daisy.org/z3986/2005/ncx/" version="2005-1">
+	<head>
+		<meta name="dtb:uid" content="urn:uuid:89030a04-9201-425e-a358-c7c83df7de70" />
+		<meta name="dtb:depth" content="1" />
+		<meta name="dtb:totalPageCount" content="3" />
+		<meta name="dtb:maxPageNumber" content="0" />
+		<meta name="dir" content="rtl" />
+	</head>
+	<docTitle>
+		<text>
+			بينوكيو
+		</text>
+	</docTitle>
+	<navMap>
+		<navPoint id="navPoint-1" playOrder="1">
+			<navLabel>
+				<text>
+					صفحة الغلاف
+				</text>
+			</navLabel>
+			<content src="Xhtml/Cover.xhtml" />
+		</navPoint>
+		<navPoint id="navPoint-2" playOrder="2">
+			<navLabel>
+				<text>
+					صفحة 1
+				</text>
+			</navLabel>
+			<content src="Xhtml/Section0001.xhtml" />
+		</navPoint>
+		<navPoint id="navPoint-3" playOrder="3">
+			<navLabel>
+				<text>
+					الصفحة 2
+				</text>
+			</navLabel>
+			<content src="Xhtml/Section0002.xhtml" />
+		</navPoint>
+		<navPoint id="navPoint-4" playOrder="4">
+			<navLabel>
+				<text>
+					الصفحة 3
+				</text>
+			</navLabel>
+			<content src="Xhtml/Section0003.xhtml" />
+		</navPoint>
+	</navMap>
+</ncx>

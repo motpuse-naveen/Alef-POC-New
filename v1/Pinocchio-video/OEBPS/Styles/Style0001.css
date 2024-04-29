@@ -1,0 +1,39 @@
+@page {padding: 0pt; margin:0pt}
+body { text-align: center; padding:0pt; margin: 0pt }
+div { padding:0pt; margin: 0pt }
+img { padding:0pt; margin: 0pt }
+
+#outerContainer{
+	position:absolute;
+    width: 1920px;
+    height: 1280px;
+}
+
+.spread {
+    page-spread: both;
+}
+
+.textContainer{
+	position: absolute;
+    top: 120px;
+    right: 75px;
+    width: 777px;
+    height: 672px;
+    font-family: Arial !important;
+    font-size: 56px !important;
+    text-align: right;
+    word-spacing: -2px !important;
+    letter-spacing: 0.4px !important;
+    line-height: 1.2em !important;
+    /*color: red;
+    border: 1px green solid;*/
+}
+
+.dis-none{
+    display: none;
+}
+
+#animation_container{
+    width: 1920px;
+    height: 1280px;
+}
